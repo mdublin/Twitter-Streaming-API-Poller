@@ -1,0 +1,7 @@
+Django==1.11
+gunicorn==19.7.1
+dj-database-url==0.4.2
+python-twitter==3.2.1
+whitenoise==3.3.0
+twython==3.5.0
+
