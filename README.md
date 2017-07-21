@@ -2,6 +2,9 @@ This is a basic proof-of-principal Django app that utilizes Twitter's Streaming 
 
 You can search by hashtags in the frontend and then monitor in Terminal the stream as it pulls relevant content:
 
+![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+
+
 
 Setup:
 
